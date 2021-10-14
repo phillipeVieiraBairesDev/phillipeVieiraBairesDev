@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phillipeVieiraBairesDev
+- 👋 Hi, I’m Phillipe Vieira
 - 👀 I’m interested in back-end development
 
 

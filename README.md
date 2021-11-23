@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phillipe Vieira
-- 👀 I’m interested in back-end development
+- 👀 I’m interested in fullstack development
 
 
 <!---
